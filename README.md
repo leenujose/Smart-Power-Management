@@ -4,7 +4,7 @@
 
 # Energy Management System (EMS) 
 The EMS operates based on a hierarchy of power sources and user-defined priorities (e.g., maximize self-consumption, prioritize battery charging, time-of-use optimization, reliable backup power).
-# I built an ESP32-based EMS that:
+# ESP32-based EMS that:
 🔹 Reads real-time voltages from solar, battery, and grid sources
 
 🔹 Fetches weather forecasts using an API (so it “knows” if it’s going to be cloudy or sunny!)
